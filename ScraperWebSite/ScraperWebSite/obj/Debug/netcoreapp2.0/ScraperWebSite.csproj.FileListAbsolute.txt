@@ -1,0 +1,11 @@
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\bin\Debug\netcoreapp2.0\ScraperWebSite.deps.json
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\bin\Debug\netcoreapp2.0\ScraperWebSite.runtimeconfig.json
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\bin\Debug\netcoreapp2.0\ScraperWebSite.runtimeconfig.dev.json
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\bin\Debug\netcoreapp2.0\ScraperWebSite.dll
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\bin\Debug\netcoreapp2.0\ScraperWebSite.pdb
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\obj\Debug\netcoreapp2.0\ScraperWebSite.csprojResolveAssemblyReference.cache
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\obj\Debug\netcoreapp2.0\ScraperWebSite.csproj.CoreCompileInputs.cache
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\obj\Debug\netcoreapp2.0\ScraperWebSite.AssemblyInfoInputs.cache
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\obj\Debug\netcoreapp2.0\ScraperWebSite.AssemblyInfo.cs
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\obj\Debug\netcoreapp2.0\ScraperWebSite.dll
+E:\05.Phermone\04.Screper Website C#\01.Core Scraper Website\ScraperWebSite\ScraperWebSite\obj\Debug\netcoreapp2.0\ScraperWebSite.pdb
