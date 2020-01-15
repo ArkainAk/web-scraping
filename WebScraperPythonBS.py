@@ -14,7 +14,7 @@ for tr in tbody.find_all('tr'):
     Discount = tr.find_all('td')[1].text.strip()
     Capacity = tr.find_all('td')[2].text.strip()
     ExtraService = tr.find_all('td')[3].text.strip()
-    BoardPriceOneNight = tr.find_all('td')[5].find_all('span')[0].text.strip()
-    FinalPriceIneNight = tr.find_all('td')[5].find_all('span')[1].text.strip()
-    print([TypeRoom, Discount, Capacity, ExtraService, BoardPriceOneNight,
-           FinalPriceIneNight])
+    BoardPrice = tr.find_all('td')[5].find_all('span')[0].text.strip()
+    FinalPrice = tr.find_all('td')[5].find_all('span')[1].text.strip()
+    print([TypeRoom, Discount, Capacity, ExtraService, BoardPrice,
+           FinalPrice])
